@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SmartBrain__WebApplication.iml" filepath="$PROJECT_DIR$/.idea/SmartBrain__WebApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartBrain__WebApplication.iml" filepath="$PROJECT_DIR$/SmartBrain__WebApplication.iml" />
     </modules>
   </component>
 </project>
